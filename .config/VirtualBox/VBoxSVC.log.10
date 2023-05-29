@@ -1,0 +1,39 @@
+00:00:00.000121 main     VirtualBox XPCOM Server 7.0.8 r156879 linux.amd64 (Apr 18 2023 21:49:14) release log
+00:00:00.000122 main     Log opened 2023-05-15T15:36:22.559098000Z
+00:00:00.000123 main     Build Type: release
+00:00:00.000124 main     OS Product: Linux
+00:00:00.000124 main     OS Release: 6.3.1-zen2-1-zen
+00:00:00.000124 main     OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Wed, 10 May 2023 08:54:24 +0000
+00:00:00.000136 main     DMI Product Name: ASUS TUF Dash F15 FX517ZC_FX517ZC
+00:00:00.000139 main     DMI Product Version: 1.0
+00:00:00.000141 main     Firmware type: UEFI
+00:00:00.000545 main     Secure Boot: Disabled
+00:00:00.000559 main     Host RAM: 15617MB (15.2GB) total, 13616MB (13.2GB) available
+00:00:00.000561 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000561 main     Process ID: 47011
+00:00:00.000561 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001275 main     IPC socket path: /tmp/.vbox-srcydev-ipc/ipcd
+00:00:00.105204 nspr-2   VirtualBox: object creation starts
+00:00:00.105424 nspr-2   Home directory: '/home/srcydev/.config/VirtualBox'
+00:00:00.105711 nspr-2   Loading settings file "/home/srcydev/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.121843 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.122552 nspr-2   HostDnsMonitor: initializing
+00:00:00.122811 nspr-2   NAT: resolv.conf: nameserver 192.168.29.1
+00:00:00.122829 nspr-2   NAT: resolv.conf: nameserver 2405:201:8002:985e::c0a8:1d01
+00:00:00.122837 nspr-2   HostDnsMonitor: updating information
+00:00:00.122851 nspr-2   HostDnsMonitor: old information
+00:00:00.122853 nspr-2     no server entries
+00:00:00.122855 nspr-2     no domain set
+00:00:00.122857 nspr-2     no search string entries
+00:00:00.122859 nspr-2   HostDnsMonitor: new information
+00:00:00.122861 nspr-2     server 1: 192.168.29.1
+00:00:00.122864 nspr-2     server 2: 2405:201:8002:985e::c0a8:1d01
+00:00:00.122866 nspr-2     no domain set
+00:00:00.122868 nspr-2     no search string entries
+00:00:00.125181 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.125249 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.126139 nspr-2   VirtualBox: object created
+00:00:00.431712 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={e54f6256-97a7-4947-8a78-10c013ddf4b8} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:11.803228 nspr-4   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:01:25.542695 nspr-2   Saving settings file "/home/srcydev/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:25.545713 nspr-2   Finished saving settings file "/home/srcydev/.config/VirtualBox/VirtualBox.xml"

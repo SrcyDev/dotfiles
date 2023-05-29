@@ -1,0 +1,28 @@
+00:00:00.296458 VirtualBox GUI VM Selector Window 7.0.8 r156879 linux.amd64 (Apr 18 2023 21:49:14) release log
+00:00:00.296460 Log opened 2023-05-29T08:38:22.173070000Z
+00:00:00.296460 Build Type: release
+00:00:00.296461 OS Product: Linux
+00:00:00.296461 OS Release: 6.3.4-zen1-1-zen
+00:00:00.296462 OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Wed, 24 May 2023 17:43:43 +0000
+00:00:00.296475 DMI Product Name: ASUS TUF Dash F15 FX517ZC_FX517ZC
+00:00:00.296479 DMI Product Version: 1.0
+00:00:00.296481 Firmware type: UEFI
+00:00:00.296761 Secure Boot: Disabled
+00:00:00.296780 Host RAM: 15617MB (15.2GB) total, 14612MB (14.2GB) available
+00:00:00.296782 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.296782 Process ID: 3101
+00:00:00.296782 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.296801 Qt version: 5.15.9
+00:00:00.297158 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.300735 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.575848 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.583030 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 839x471 x 960x540
+00:00:25.964982 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:18.098851 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:20.791513 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:46.459863 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:11.236503 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:11.248100 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:13.860589 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:23.924399 GUI: UICommon: Handling aboutToQuit request..
+00:02:24.885904 GUI: UICommon: aboutToQuit request handled!
